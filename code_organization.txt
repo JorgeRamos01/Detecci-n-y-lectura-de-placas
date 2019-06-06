@@ -1,0 +1,17 @@
+number_plate_recognition/
+
+	README.txt
+
+	classifications.txt
+	knn2.py
+	platerecog.py
+	unittests.py
+	recognize_plate_and_num.py
+
+	haar_29_mx_plates_20_stages/ -> haar_2000_mx_usa_plates/
+		cascade.xml
+
+	test_img/
+		*.jpg
+
+	results/
