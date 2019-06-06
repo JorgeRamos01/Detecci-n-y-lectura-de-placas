@@ -1,4 +1,4 @@
-# Detecci-n-y-lectura-de-placas
+# Detección y lectura de placas vehículares
 Algoritmos para detección y lectura de placas vehiculares
 
 Para la detección de placas se utilizaron 3 tipos de métodos: Cascada de Haar, método de detección de bordes de Canny y método de umbral.
